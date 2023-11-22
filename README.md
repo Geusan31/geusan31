@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Geusan Edurais Aria Daffa</h1>
+<h1 align="center">Hi There👋, I'm Geusan Edurais Aria Daffa</h1>
 <h3 align="center">A Front End developer from Indonesia</h3>
-
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geusan31&label=Profile%20views&color=0e75b6&style=flat" alt="geusan31" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geusan31" alt="geusan31" /></a> </p>
+<!-- GIF -->
+<img align="right" height="300" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 - 🌱 I’m currently learning **Flutter, NextJS**
 
@@ -31,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geusan31&show_icons=true&locale=en" alt="geusan31" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geusan31&" alt="geusan31" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geusan31" alt="geusan31" /></a> </p>
