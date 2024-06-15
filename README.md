@@ -1,10 +1,11 @@
 <h1 align="center">Hi There👋, I'm Geusan Edurais Aria Daffa</h1>
 <h3 align="center">A Front End developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geusan31&label=Profile%20views&color=0e75b6&style=flat" alt="geusan31" /> </p>
+**<p align="left"> <img src="https://komarev.com/ghpvc/?username=geusan31&label=Profile%20views&color=0e75b6&style=flat" alt="geusan31" /> </p>**
 
 <!-- GIF -->
 <img align="right" height="280" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
 # 💫 About Me:
 🌱 I’m currently learning Flutter, NextJS<br>👨‍💻 All of my projects are available at https://geusanedurais.vercel.app/<br>📫 How to reach me edurais.ariadaffa@gmail.com<br>📄 Know about my experiences https://geusanedurais.vercel.app/
 
@@ -27,8 +28,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Geusan31&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Geusan31&icon=8&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
