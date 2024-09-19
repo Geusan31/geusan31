@@ -4,7 +4,7 @@
 **<p align="left"> <img src="https://komarev.com/ghpvc/?username=geusan31&label=Profile%20views&color=0e75b6&style=flat" alt="geusan31" /> </p>**
 
 ## 🌐 Let's Connect!
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/raissan_31/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/geusan-edurais-aria-daffa-42807b256/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/raissan_31/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/geusanedurais) 
 
 
 # 💫 About Me
