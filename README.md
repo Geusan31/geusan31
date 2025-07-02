@@ -1,45 +1,88 @@
-<h1 align="center">Hi There👋, I'm Geusan Edurais Aria Daffa</h1>
-<h3 align="center">A Front End developer from Indonesia</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" style="vertical-align:middle"/> Hi there! I'm Geusan Edurais Aria Daffa
+</h1>
 
-**<p align="left"> <img src="https://komarev.com/ghpvc/?username=geusan31&label=Profile%20views&color=0e75b6&style=flat" alt="geusan31" /> </p>**
+<p align="center">
+  💻 Front-End Developer &nbsp; | &nbsp; 🇮🇩 From Indonesia &nbsp; | &nbsp; 🎓 Software Engineering Student at Telkom University Purwokerto
+</p>
+<p align="center">
+  <i>I enjoy building intuitive and dynamic user interfaces, bringing digital ideas to life with code.</i>
+</p>
 
-## 🌐 Let's Connect!
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/raissan_31/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geusanedurais) 
+---
 
+### 🔗 Mari Terhubung!
 
-# 💫 About Me
-🌱 I am currently studying at Telkom Purwokerto University<br>👨‍💻 All of my projects are available at https://geusanedurais.vercel.app/<br>📫 How to reach me edurais.ariadaffa@gmail.com<br>📄 Know about my experiences https://geusanedurais.vercel.app/
+<p align="left">
+  <a href="https://www.linkedin.com/in/geusanedurais" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/raissan_31/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://geusanedurais.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:edurais.ariadaffa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-## 💻 Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+---
 
-##  <img width="30" src="https://github.com/user-attachments/assets/b628a10a-e4da-47f7-a90e-6db83eb6fc03"></img> Hosting
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+### 💻 Tech Stack & Tools
 
-##  <img width="30" src="https://github.com/user-attachments/assets/41655859-4dc0-4129-a110-7e63baa3487f"></img> Frameworks
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+Di bawah ini adalah beberapa teknologi yang saya kuasai:
 
-##  <img width="30" src="https://github.com/user-attachments/assets/2d601222-9959-42fb-a17f-2401cdce2583"></img> Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Languages & Frameworks</strong><br><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" alt="Express"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Databases & Development Tools</strong><br><br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+    </td>
+  </tr>
+</table>
 
-##  <img width="30" src="https://github.com/user-attachments/assets/4387b9d5-a00c-4ae9-b0cb-639ede4c4b06"></img> Development Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0079CA?style=for-the-badge&logo=visualstudiocode)
+---
 
+### 📈 Statistik GitHub Saya
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geusan31&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geusan31&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
+</div>
 
+---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Geusan31&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Geusan31&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Geusan31&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geusan31/geusan31/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geusan31/geusan31/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/geusan31/geusan31/output/github-snake.svg" />
+  </picture>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Geusan31&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=87CEEB&center=true&vCenter=true&width=450&lines=Hello+World!+I'm+Geusan+Edurais;Front-End+Developer;Crafting+cool+things+for+the+web!;Let's+build+something+amazing+together!+%F0%9F%9A%80" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Geusan31&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Created by Geusan Edurais Aria Daffa --!>
