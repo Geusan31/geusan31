@@ -76,8 +76,7 @@
 ### 📈 Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geusan31&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geusan31&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
+  [![Geusan31 GitHub stats](https://github-readme-stats.vercel.app/api?username=geusan31)](https://github.com/geusan31/github-readme-stats)
 </div>
 
 ---
