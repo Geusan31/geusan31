@@ -76,8 +76,7 @@
 ### 📈 Github Stats
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=geusan31&limit=5&theme=dark&combine_all_yearly_contributions=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=geusan31&theme=dark&hide_border=true" width="48%" />
+  <a href="https://u8views.com/github/Geusan31"><img src="https://u8views.com/api/v1/github/profiles/85786160/views/day-week-month-total-count.svg"</a>
 </p>
 
 ---
